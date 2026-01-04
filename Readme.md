@@ -1,4 +1,4 @@
- <h1>Mikroservis - Asenkron (Event Driven) İletişim</h1>
+ <h1>Mikroservis Mimari - Asenkron (Event Driven) İletişim</h1>
 <h3>1- Giriş</h3>
 <p>
 Projede mini bir e-ticaret örneği üzerinden gidilerek mikroservis mimari kullanılmış olup asenkron - event driven iletişim üzerinden gidilmiştir. Üç servis (Order, Stock, Payment) birbirleriyle olay tabanlı haberleşir ve paylaşılan kontratlar(kuyruk bilgileri) Shared projesinde tutulur.
